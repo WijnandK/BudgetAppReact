@@ -4,7 +4,7 @@ import expenses from "../fixtures/expenses";
 
 test("Should filter by text value", () => {
   const filters = {
-    text: "offee",
+    text: "bills",
     sortBy: "date",
     startDate: undefined,
     endDate: undefined

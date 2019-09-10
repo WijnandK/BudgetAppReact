@@ -7,7 +7,7 @@ ShallowWrapper {
   Symbol(enzyme.__unrendered__): <ExpenseListItem
     amount={195}
     createdAt={0}
-    description="Coffee"
+    description="bills"
     id="1"
     note=""
 />,
@@ -29,7 +29,7 @@ ShallowWrapper {
 >
           <h3>
                     Description: 
-                    Coffee
+                    bills
           </h3>
 </Link>,
         <p>
@@ -51,7 +51,7 @@ ShallowWrapper {
         "props": Object {
           "children": <h3>
             Description: 
-            Coffee
+            bills
 </h3>,
           "to": "/edit/1",
         },
@@ -63,13 +63,13 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               "Description: ",
-              "Coffee",
+              "bills",
             ],
           },
           "ref": null,
           "rendered": Array [
             "Description: ",
-            "Coffee",
+            "bills",
           ],
           "type": "h3",
         },
@@ -124,7 +124,7 @@ ShallowWrapper {
 >
             <h3>
                         Description: 
-                        Coffee
+                        bills
             </h3>
 </Link>,
           <p>
@@ -146,7 +146,7 @@ ShallowWrapper {
           "props": Object {
             "children": <h3>
               Description: 
-              Coffee
+              bills
 </h3>,
             "to": "/edit/1",
           },
@@ -158,13 +158,13 @@ ShallowWrapper {
             "props": Object {
               "children": Array [
                 "Description: ",
-                "Coffee",
+                "bills",
               ],
             },
             "ref": null,
             "rendered": Array [
               "Description: ",
-              "Coffee",
+              "bills",
             ],
             "type": "h3",
           },
